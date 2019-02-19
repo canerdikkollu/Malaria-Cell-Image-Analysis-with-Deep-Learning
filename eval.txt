@@ -1,0 +1,6 @@
+             precision    recall  f1-score   support
+
+Parasitized       0.98      0.95      0.96      2726
+ Uninfected       0.95      0.98      0.97      2786
+
+avg / total       0.96      0.96      0.96      5512
